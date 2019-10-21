@@ -1,3 +1,3 @@
 ## aHash
 
-ahash(average hash) implementation for python
+ahash(average hash) implementation in python
